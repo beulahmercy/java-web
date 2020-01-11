@@ -61,3 +61,9 @@ build jar can be found in the following path of your project
 ```java
 mvn spring-boot:run
 ```
+
+### Mongo set up
+Create user using following command
+```db
+db.createUser({user:"root",pwd:"root",roles:[{role:"userAdminAnyDatabase",db:"admin"}]})
+```
