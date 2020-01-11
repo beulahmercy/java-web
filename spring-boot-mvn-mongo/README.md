@@ -1,4 +1,4 @@
-### Spring Boot + JDK 12 + Maven + Mongo DB
+### Spring Boot + JDK 1.8 + Maven + Mongo DB
 
 using https://start.spring.io to set up project
 * Group
